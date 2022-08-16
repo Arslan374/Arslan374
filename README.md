@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arslan374
 - 👀 I’m interested in Python and C programming
-- 🌱 I’m currently doing my CS degree
+- 🌱 I have recently completed my CS degree
 - 📫 Reach me at am737475@gmail.com
 
 <!---
